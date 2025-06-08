@@ -27,10 +27,10 @@ A faithful 1.16.5 and 1.20.1 revival of the legendary mod by DrZhark.
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=multision&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multision&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=multision&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=multision&layout=compact&theme=dark&hide_border=true" height="170"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=multision&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=multision&theme=dark&hide_border=true"/>
 </p>
 
 ---
